@@ -1,7 +1,10 @@
 <h1 align="center">
-   Hi, I'm <img src="https://img.shields.io/badge/Vaishnavi%20Pawar-purple?style=flat-square&logo=github&logoColor=white">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=A020F0&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Hi,+I'm+Vaishnavi+Pawar!">
+   </a>
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
+
 
 
 
