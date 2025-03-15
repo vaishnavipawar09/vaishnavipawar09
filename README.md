@@ -7,13 +7,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaishnavipawar09&color=brightgreen)
 
-## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whale.gif" width="60px"> Find me at! 
+## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whale.gif" width="40px"> Find me at! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavipawar09/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:vpvaishnavipawar09@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)
-
-I love building interesting and amazing products that serve a great deal of purpose.
 
 ## 🎯💡 A Glimpse Into Me in a Nutshell <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/animal-whale.gif" width="60px">
 
@@ -23,22 +21,40 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
 - ☁️ Passionate about **Cloud Computing, DevOps, and Software Engineering.**
 - 🚀 Experienced in **cloud-native applications, CI/CD automation, and scalable systems**.
 - 📚 **Teaching Assistant & Tutor**—simplifying CS & Math concepts.
-- 🏗️ **AWS Certification** in progress, diving deeper into cloud technologies.
 - 🏆 Ranked **2nd** in my Bachelor's IT Department.
 - ⚽ Former Sports Captain, leading teams with discipline & strategy.
 - 🌟 **First female engineer in my family** pursuing higher studies in the US.
 - 🎬 Anime, K-dramas, and international cinema enthusiast.
 - 🍣 Love exploring cuisines & experimenting with recipes.
-- 📖 Keep a record book of all movies & series I watch.
 - 🔍 Always learning, always building, always growing.
 - I love building interesting and amazing products that serve a great deal of purpose.
-
----
 
 ## 🌐 Connect with Me
 - 📧 **Email:** [vpvaishnavipawar09@gmail.com](mailto:vpvaishnavipawar09@gmail.com)  
 - 📄 **Resume:** [View/Download PDF](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)  
 - 📱 **Phone:** +1 930-904-0007  
+
+## ⚡ Stats ⚡
+
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=vaishnavipawar09&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=vaishnavipawar09&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavipawar09&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavipawar09&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
 
 
