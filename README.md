@@ -8,9 +8,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vaishnavipawar09&color=brightgreen)
 
 **📬 Find me at** 
-<p align="center">
-  <img src="https://media.tenor.com/PP9v7VIs6R4AAAAi/one-piece-luffy.gif" width="50px">
-</p>
+![Luffy Badge](https://img.shields.io/badge/Luffy-Gear5-purple?style=for-the-badge&logo=onepiece&logoColor=white)
+
 
 
 
