@@ -7,7 +7,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaishnavipawar09&color=brightgreen)
 
-**📬 Find me at** 
+## 📬 Find me at** 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavipawar09/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:vpvaishnavipawar09@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)
