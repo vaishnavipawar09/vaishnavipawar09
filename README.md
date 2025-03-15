@@ -20,14 +20,12 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
 - 💻 **2+ years of hands-on software development experience**  
 - ☁️ Passionate about **Cloud Computing, DevOps, and Software Engineering.**
 - 🚀 Experienced in **cloud-native applications, CI/CD automation, and scalable systems**.
-- 📚 **Teaching Assistant & Tutor**—simplifying CS & Math concepts.
+- 📚 **Teaching Assistant & Tutor** — simplifying CS & Math concepts.
 - 🏆 Ranked **2nd** in my Bachelor's IT Department.
 - ⚽ Former Sports Captain, leading teams with discipline & strategy.
 - 🌟 **First female engineer in my family** pursuing higher studies in the US.
-- 🎬 Anime, K-dramas, and international cinema enthusiast.
-- 🍣 Love exploring cuisines & experimenting with recipes.
-- 🔍 Always learning, always building, always growing.
-- I love building interesting and amazing products that serve a great deal of purpose.
+- 🎬 Anime lover & foodie who enjoys global dramas and cuisines.
+- 🔍 Always learning, building, and creating impactful products.
 
 ## 🌐 Connect with Me
 - 📧 **Email:** [vpvaishnavipawar09@gmail.com](mailto:vpvaishnavipawar09@gmail.com)  
@@ -35,7 +33,6 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
 - 📱 **Phone:** +1 930-904-0007  
 
 ## ⚡ Stats ⚡
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
