@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hi, I'm <span style="color: purple;">Vaishnavi Pawar</span>! 
+   Hi, I'm <img src="https://img.shields.io/badge/Vaishnavi%20Pawar-%23A020F0.svg?&style=flat-square&logo=github&logoColor=white" />
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
