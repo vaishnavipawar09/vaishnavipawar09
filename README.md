@@ -1,8 +1,7 @@
 <h1 align="center">
-   Hi, I'm  
-   <svg width="280">
-      <text x="10" y="35" fill="purple" font-size="35" font-weight="bold">Vaishnavi Pawar</text>
-   </svg>
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=A020F0&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Hi,+I'm+Vaishnavi+Pawar!">
+   </a>
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
