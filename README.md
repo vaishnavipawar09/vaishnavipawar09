@@ -9,7 +9,7 @@
 
 ## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whale.gif" width="40px"> Find Me At!
 
-p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vaishnavipawar09/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
