@@ -1,5 +1,5 @@
 <h1 align="center">
-   Hi, I'm Vaishnavi Pawar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px"> Hi, I'm <span style="color: purple;">Vaishnavi Pawar</span>! 
 </h1>
 
 
