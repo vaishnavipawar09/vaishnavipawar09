@@ -3,7 +3,7 @@
    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=A020F0&center=true&vCenter=true&multiline=true&width=500&height=50&lines=Hi,+I'm+Vaishnavi+Pawar!">
    </a>
-    <img src="https://media.giphy.com/media/kZqbF7S8y8hxT1Z49M/giphy.gif" width="40px">
+   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
 
