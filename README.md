@@ -8,16 +8,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vaishnavipawar09&color=brightgreen)
 
 **📬 Find me at** 
-![Luffy Badge](https://img.shields.io/badge/Luffy-Gear5-purple?style=for-the-badge&logo=onepiece&logoColor=white)
-
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavipawar09/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:vpvaishnavipawar09@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)
 
 **A little about me..**
+
+I'm a Grad Student🎓 @ Indiana University Bloomington <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Indiana_Hoosiers_logo.svg" width="20px"> majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
 ---
 
 ## 🚀 About Me
