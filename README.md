@@ -122,7 +122,11 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavipawar09&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+---
+<img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/luffy.gif" width="30px">
+---
 
+## ⚡️Stay awesome! Thanks for stopping by! Let's connect and grow together. 🚀
 
 <!--
 **vaishnavipawar09/vaishnavipawar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
