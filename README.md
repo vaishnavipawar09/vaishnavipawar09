@@ -9,8 +9,9 @@
 
 **📬 Find me at** 
 <p align="center">
-  <img src="https://media.tenor.com/CrlwLJYbSo0AAAAi/luffy-one-piece.gif" width="50px">
+  <img src="https://media.tenor.com/PP9v7VIs6R4AAAAi/one-piece-luffy.gif" width="50px">
 </p>
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavipawar09/)
