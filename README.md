@@ -8,16 +8,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vaishnavipawar09&color=brightgreen)
 
 ## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whale.gif" width="40px"> Find Me At!
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaishnavipawar09/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/vaishnavipawar09/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:vpvaishnavipawar09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:vpvaishnavipawar09@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-%23FF8800.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume"/>
+  <a href="https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Resume-%23FF8800.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
