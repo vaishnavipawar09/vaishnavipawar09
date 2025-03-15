@@ -9,17 +9,18 @@
 
 ## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whale.gif" width="40px"> Find Me At!
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaishnavipawar09/" target="_blank" style="text-decoration: none; margin-right: 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/vaishnavipawar09/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
   </a>
-  <a href="mailto:vpvaishnavipawar09@gmail.com" target="_blank" style="text-decoration: none; margin-right: 15px;">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="mailto:vpvaishnavipawar09@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" />
   </a>
-  <a href="https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Resume-%23FF8800.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="40px" />
   </a>
 </p>
-
 ## 🎯💡 A Glimpse Into Me in a Nutshell <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/animal-whale.gif" width="60px">
 
 I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/iu-blogo.png" width="30px"> majoring in **Computer Science**. 
