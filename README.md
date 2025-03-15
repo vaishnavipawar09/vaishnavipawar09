@@ -1,7 +1,11 @@
 <h1 align="center">
-   Hi, I'm <img src="https://img.shields.io/badge/Vaishnavi%20Pawar-%23A020F0.svg?&style=flat-square&logo=github&logoColor=white" />
+   Hi, I'm  
+   <svg width="280">
+      <text x="10" y="35" fill="purple" font-size="35" font-weight="bold">Vaishnavi Pawar</text>
+   </svg>
    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
+
 
 
 
