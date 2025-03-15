@@ -12,9 +12,10 @@
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:vpvaishnavipawar09@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)
 
+
 **A little about me..**
 
-I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/iu-blogo.png" width="40px"> majoring in **Computer Science**. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
+I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/iu-blogo.png" width="30px"> majoring in **Computer Science**. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
 
 ---
 
