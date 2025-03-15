@@ -123,7 +123,7 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
 </p>
 
 ---
-<img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/luffy.gif" width="100px">
+<img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/luffy.gif" width="400px">
 
 ---
 ## ⚡️Stay awesome! Thanks for stopping by! Let's connect and grow together. 🚀
