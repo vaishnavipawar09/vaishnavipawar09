@@ -1,6 +1,8 @@
 <h1 align="center">
-   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60px"> Hi, I'm <span style="color: purple;">Vaishnavi Pawar</span>! 
+   Hi, I'm <span style="color: purple;">Vaishnavi Pawar</span>! 
+   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
+
 
 
 <!--
