@@ -44,6 +44,7 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px">
 </p>
 
 ### **Web Development**
@@ -73,7 +74,8 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40px">
-  
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40px">
+
 </p>
 
 ### **Tools & CI/CD**
@@ -85,6 +87,7 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px">
 </p>
 
 ## ⚡ Stats ⚡
