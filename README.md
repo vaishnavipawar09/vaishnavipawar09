@@ -14,7 +14,7 @@
 
 **A little about me..**
 
-I'm a Grad Student🎓 @ Indiana University Bloomington <img src="https://raw.githubusercontent.com/vaishnavipawar09/vaishnavipawar09/main/assets/iu-logo.png" width="20px"> majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
+I'm a Grad Student🎓 @ Indiana University Bloomington <img src="https://raw.githubusercontent.com/vaishnavipawar09/vaishnavipawar09/assets/iu-logo.png" width="20px"> majoring in Computer Science. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.
 
 ---
 
