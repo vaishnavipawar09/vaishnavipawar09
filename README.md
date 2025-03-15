@@ -5,6 +5,26 @@
    </a>
 </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=vaishnavipawar09&color=brightgreen)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavipawar09/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:vpvaishnavipawar09@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)
+
+---
+
+## 🚀 About Me
+
+- 🎓 **Master's student at Indiana University Bloomington**  
+- 💻 **2+ years of hands-on software development experience**  
+- 🤖 Passionate about **Software Engineering and AI**  
+
+---
+
+## 🌐 Connect with Me
+- 📧 **Email:** [vpvaishnavipawar09@gmail.com](mailto:vpvaishnavipawar09@gmail.com)  
+- 📄 **Resume:** [View/Download PDF](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)  
+- 📱 **Phone:** +1 930-904-0007  
 
 
 
