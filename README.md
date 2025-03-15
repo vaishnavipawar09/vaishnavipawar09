@@ -9,12 +9,17 @@
 
 ## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whale.gif" width="40px"> Find Me At!
 
-## 🌍 Find Me At  
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavipawar09/)
-- 📧 [Email](mailto:vpvaishnavipawar09@gmail.com)
-- 📄 [Resume](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/vaishnavipawar09/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
+  </a>
+  <a href="mailto:vpvaishnavipawar09@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" />
+  </a>
+  <a href="https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="40px" />
+  </a>
+</p>
 
 ## 🎯💡 A Glimpse Into Me in a Nutshell <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/animal-whale.gif" width="60px">
 
