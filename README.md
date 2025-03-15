@@ -9,13 +9,13 @@
 
 ## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whale.gif" width="40px"> Find Me At!
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaishnavipawar09/" target="_blank">
+  <a href="https://www.linkedin.com/in/vaishnavipawar09/" target="_blank" style="text-decoration: none; margin-right: 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="mailto:vpvaishnavipawar09@gmail.com" target="_blank">
+  </a>
+  <a href="mailto:vpvaishnavipawar09@gmail.com" target="_blank" style="text-decoration: none; margin-right: 15px;">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing" target="_blank">
+  </a>
+  <a href="https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Resume-%23FF8800.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
