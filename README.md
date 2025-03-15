@@ -7,7 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaishnavipawar09&color=brightgreen)
 
-**📬 Find me at** <img src="https://giphy.com/gifs/red-mugiwara-Godtj62ewycxy" width="200px">
+**📬 Find me at** <img src="[https://giphy.com/gifs/red-mugiwara-Godtj62ewycxy"](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI2NmVkOWJzNXY0eXZvMm1ic3ViZGN3ZHUyNXB3d3h4dmtvdjBzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q8ld8Sk7WWyY0/giphy.gif) width="200px">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavipawar09/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:vpvaishnavipawar09@gmail.com)
