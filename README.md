@@ -7,11 +7,19 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaishnavipawar09&color=brightgreen)
 
-## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whale.gif" width="40px"> Find me at! 
+## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whale.gif" width="40px"> Find Me At!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavipawar09/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:vpvaishnavipawar09@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-orange?style=flat-square&logo=adobeacrobatreader)](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)
+<p align="center">
+   <a href="https://www.linkedin.com/in/vaishnavipawar09/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+   </a>
+   <a href="mailto:vpvaishnavipawar09@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" />
+   </a>
+   <a href="https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing">
+      <img src="https://img.shields.io/badge/Resume-View%20PDF-orange?style=flat-square&logo=adobeacrobatreader" />
+   </a>
+</p>
 
 ## 🎯💡 A Glimpse Into Me in a Nutshell <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/animal-whale.gif" width="60px">
 
@@ -31,6 +39,8 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
 - 📧 **Email:** [vpvaishnavipawar09@gmail.com](mailto:vpvaishnavipawar09@gmail.com)  
 - 📄 **Resume:** [View/Download PDF](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)  
 - 📱 **Phone:** +1 930-904-0007  
+
+---
 
 ## 🖥️ Languages and Technologies
 
@@ -89,6 +99,8 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px">
 </p>
+
+---
 
 ## ⚡ Stats ⚡
 <p align=center>
