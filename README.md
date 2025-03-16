@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## 🎯💡 A Glimpse Into Me in a Nutshell <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/animal-whale.gif" width="60px">
+##  A Glimpse Into Me in a Nutshell <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/animal-whale.gif" width="60px">
 
 I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/iu-blogo.png" width="30px"> majoring in **Computer Science**. 
 
