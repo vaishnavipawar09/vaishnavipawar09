@@ -27,7 +27,7 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
 - 💻 **2+ years of hands-on software development experience**  
 - ☁️ Passionate about **Cloud Computing, DevOps, and Software Engineering.**
 - 🚀 Experienced in **cloud-native applications, CI/CD automation, and scalable systems**.
-- 📚 **Teaching Assistant & Tutor** — simplifying CS & Math concepts.
+- 📚 **Teaching Assistant & Tutor** - simplifying CS & Math concepts.
 - 🏆 Ranked **2nd** in my Bachelor's IT Department.
 - ⚽ Former Sports Captain, leading teams with discipline & strategy.
 - 🌟 **First female engineer in my family** pursuing higher studies in the US.
