@@ -101,7 +101,7 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
 
 ---
 
-## ⚡ Stats <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whalest.gif" width="30px">
+## <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/whalest.gif" width="40px"> Stats 
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
