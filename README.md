@@ -36,7 +36,7 @@ I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://gi
 
 ## 🌐 Connect with Me
 - 📧 **Email:** [vpvaishnavipawar09@gmail.com](mailto:vpvaishnavipawar09@gmail.com)  
-- 📄 **Resume:** [View/Download PDF](https://drive.google.com/file/d/1OFAYKQDvJPWQ9mIL379QjeGYdMWcx4y_/view?usp=sharing)  
+- 📄 **Resume:** [View/Download PDF](https://drive.google.com/file/d/1TLnK6IzWx4Kfs2OtP5Twl0kSuWWtAif9/view?usp=sharing)
 - 📱 **Phone:** +1 930-904-0007  
 
 ---
