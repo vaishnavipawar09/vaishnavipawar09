@@ -24,7 +24,7 @@
 
 I'm a **Grad Student🎓 @ Indiana University Bloomington** <img src="https://github.com/vaishnavipawar09/vaishnavipawar09/blob/main/assets/iu-blogo.png" width="30px"> majoring in **Computer Science**. 
 
-- 💻 **2+ years of hands-on software development experience**  
+- 💻 **4+ years of hands-on software development experience**  
 - ☁️ Passionate about **Cloud Computing, DevOps, and Software Engineering.**
 - 🚀 Experienced in **cloud-native applications, CI/CD automation, and scalable systems**.
 - 📚 **Teaching Assistant & Tutor** - simplifying CS & Math concepts.
